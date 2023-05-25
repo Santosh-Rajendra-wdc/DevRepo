@@ -21,3 +21,5 @@ console.log('Hi Project 20');
 console.log('Hi Project 21');
 console.log('Hi Project 22');
 console.log('Hi Project 23');
+console.log('Hi Project 24');
+console.log('Hi Project 25');
